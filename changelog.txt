@@ -1,0 +1,7 @@
+07/05/2020 CHANGELOG
++ FIX AUTO STRAFER
++ Watermark (on/off)
++ Clear Menu
++ Add Sticker Changer
+- DUVIDAS E PERGUNTAS NO DISCORD!
+© 2020 HypeSense, Inc.
